@@ -93,15 +93,34 @@ console.log("Sikeres összekötés ✅");
 //         console.log(`Van még hátra: ${evekhatra} éve, hogy ihason bort. 🍷 🎊`)
 // }
 
-const szuletesiEv = 2002;
-let szazad;
+// const szuletesiEv = 2002;
+// let szazad;
 
-if (szuletesiEv <= 2000) {
-    szazad = 20;
-    console.log(`${szazad} században született.`)
-} else {
-    szazad = 21;
-    console.log(`${szazad} században született.`)
-}
+// if (szuletesiEv <= 2000) {
+//     szazad = 20;
+//     console.log(`${szazad} században született.`)
+// } else {
+//     szazad = 21;
+//     console.log(`${szazad} században született.`)
+// }
 
-console.log(szazad)
+// console.log(szazad)
+
+// const bekertev = "1991"
+
+// console.log(bekertev + 18);
+
+// const szuletesi_ev = Number(bekertev)
+
+// console.log(szuletesi_ev + 18 );
+// console.log(Number("Talabér"));
+// console.log(typeof(szuletesi_ev));
+// console.log("Én " + 23 + " éves vagyok.");
+// console.log("23 " - "10 "- 3);
+// console.log("Talabér " - "Olivér");
+// console.log("én " - "vagyokh");
+// console.log("23 " * "2");
+// console.log("24 " / "2");
+
+console.log(Boolean(1));
+console.log(Boolean(undefined));
