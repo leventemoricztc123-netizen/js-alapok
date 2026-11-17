@@ -62,3 +62,30 @@ console.log("Sikeres összekötés ✅");
 // console.log(`Talabér vagyok
 //     haladó programozó`);
 
+// const kor = 16;
+
+// const elegidos = kor >= 18;
+
+// if (
+//     elegidos
+// ) {
+//     console.log(`Teofil ihat bort!
+//         🍷`)
+// } else {
+//     const evekhatra = 18 - kor;
+//         console.log(`Teofil nem ihat bort! 😕`)
+//         console.log(`Van még hátra: ${evekhatra} éve, hogy ihason bort. 🍷 🎊`)
+// }
+
+// const szuletesiEv = 2002;
+// let szazad;
+
+// if (szuletesiEv <= 2000) {
+//     szazad = 20;
+//     console.log(`${szazad} században született.`)
+// } else {
+//     szazad = 21;
+//     console.log(`${szazad} században született.`)
+// }
+
+// console.log(szazad)
