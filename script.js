@@ -43,14 +43,22 @@ console.log("Sikeres összekötés ✅");
 // console.log(eletkorDavid >= eletkorTalaber)
 
 
-const keresztNev = "Balázs"
-const foglalkozasSzeretne = "Kezdő programozó"
+// const keresztNev = "Balázs"
+// const foglalkozasSzeretne = "Kezdő programozó"
 
-const foglalkozasMarad = "Kezdő kábeldugdosó";
+// const foglalkozasMarad = "Kezdő kábeldugdosó";
 
-const szuletesiEv = 2009;
-const ev = 2026;
+// const szuletesiEv = 2009;
+// const ev = 2026;
 
-const balazs = keresztNev + "vagyok, " + (ev - szuletesiEv) + "éves " + foglalkozasSzeretne + "szeretnék lenni!"
+// const balazs = keresztNev + "vagyok, " + (ev - szuletesiEv) + "éves " + foglalkozasSzeretne + "szeretnék lenni!"
 
-console.log(balazs)
+// console.log(balazs)
+
+// const balazsUj = `${keresztNev} vagyok, ${ev - szuletesiEv} éves ${foglalkozasSzeretne} szeretnék lenni!`;
+
+// console.log(balazsUj);
+// console.log("Talabér vagyok \n\ haladó programozó!");
+// console.log(`Talabér vagyok
+//     haladó programozó`);
+
