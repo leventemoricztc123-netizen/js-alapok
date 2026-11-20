@@ -122,5 +122,42 @@ console.log("Sikeres összekötés ✅");
 // console.log("23 " * "2");
 // console.log("24 " / "2");
 
-console.log(Boolean(1));
-console.log(Boolean(undefined));
+// console.log(Boolean(1));
+// console.log(Boolean(undefined));
+
+// const day = "csütörtök";
+
+// switch (day) {
+//     case "hetfő":
+//         console.log("Hétfőn kiverem Balázs fogát!");
+//         break;
+//     case "kedd":
+//         console.log("Kedden csak megverem Balázst.");
+//         break;
+//     case "szerda":
+//         console.log("Szerdán nem bántom Balázst.");
+//         break;
+//     case "csütörtök":
+//         console.log("Csütörtökön megölelem Balázst.");
+//         break;
+//     case "péntek":
+//         console.log("Pénteken megölöm Balázst.");
+//         break;
+//     case "szombat":
+//         console.log("Szombaton nem csinálok semmit.");
+//         break;
+//     case "vasárnap":
+//         console.log("Vasárnap pihenek.");
+//         break;
+//     default: 
+//     console.log("Balázs aludhat.");
+// }
+
+// const age = 23;
+
+// age >= 18 ? console.log("Szeretek gyrost enni.") : console.log("Szeretek szendvicset enni ó.")
+
+// const drink = age >= 18 ? "Gyros" : "Szendvics";
+
+// console.log(drink)
+
