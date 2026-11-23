@@ -89,3 +89,60 @@ console.log("Sikeres összekötés ✅");
 // }
 
 // console.log(szazad)
+
+// const kor = 18;
+
+// if (kor == 18)
+//     console.log("Most lettál nagykorú!")
+
+// console.log(18 === 18);
+// console.log(18 == 18);
+// console.log(18 === "18");
+// console.log(18 == "18");
+
+// const kedvenc = Number(prompt("Kérem adja meg a kedvenc számod? "))
+
+// console.log (kedvenc, typeof kedvenc);
+
+// if (kedvenc === 23) 
+// {
+//     console.log("A 23 egy nagyszrű szám!");
+// } else if (kedvenc === 7) { 
+//     console.log("A 7 is egy nagyszerű szám!");
+// } else if (kedvenc === 27) {
+//     console.log("A 27 a legjobb szám!");
+// } else {
+//     console.log("Más számot választottál! ");
+// }
+
+// if (kedvenc !== 27) {
+//     console.log("Nem értem mért nem 27 et választottál!");
+// }
+
+// const age = 16;
+
+// const a = age >= 20;
+// const b = age <= 30;
+
+// console.log(a)
+// console.log(b)
+
+// // logikai operatorok
+
+// console.log(!a);
+// console.log(a && b);
+// console.log(a || b);
+// console.log(!a && b);
+// console.log(a && !b)
+
+const hasdriverlicense = true;
+const hasGoodvision = true;
+const isTired = true;
+const ShouldDrive = hasdriverlicense && hasGoodvision && !isTired;
+
+if (ShouldDrive)
+{
+    console.log("Te vezethetsz!");
+} else {
+    console.log("Nem neked kellene vezetned!");
+}
