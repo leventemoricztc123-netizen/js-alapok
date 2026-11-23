@@ -135,14 +135,14 @@ console.log("Sikeres összekötés ✅");
 // console.log(!a && b);
 // console.log(a && !b)
 
-const hasdriverlicense = true;
-const hasGoodvision = true;
-const isTired = true;
-const ShouldDrive = hasdriverlicense && hasGoodvision && !isTired;
+// const hasdriverlicense = true;
+// const hasGoodvision = true;
+// const isTired = true;
+// const ShouldDrive = hasdriverlicense && hasGoodvision && !isTired;
 
-if (ShouldDrive)
-{
-    console.log("Te vezethetsz!");
-} else {
-    console.log("Nem neked kellene vezetned!");
-}
+// if (ShouldDrive)
+// {
+//     console.log("Te vezethetsz!");
+// } else {
+//     console.log("Nem neked kellene vezetned!");
+// }
