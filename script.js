@@ -108,7 +108,7 @@ console.log("Sikeres összekötés ✅");
 
 // console.log(szazad)
 
-<<<<<<< HEAD
+
 // const kor = 18;
 
 // if (kor == 18)
@@ -182,67 +182,30 @@ console.log("Sikeres összekötés ✅");
 
 // const private = 23;
 
-function logger() {
-    console.log("A nevem Levente! ")
-}
-
-logger();
-logger();
-logger();
-=======
-// const bekertev = "1991"
-
-// console.log(bekertev + 18);
-
-// const szuletesi_ev = Number(bekertev)
-
-// console.log(szuletesi_ev + 18 );
-// console.log(Number("Talabér"));
-// console.log(typeof(szuletesi_ev));
-// console.log("Én " + 23 + " éves vagyok.");
-// console.log("23 " - "10 "- 3);
-// console.log("Talabér " - "Olivér");
-// console.log("én " - "vagyokh");
-// console.log("23 " * "2");
-// console.log("24 " / "2");
-
-// console.log(Boolean(1));
-// console.log(Boolean(undefined));
-
-// const day = "csütörtök";
-
-// switch (day) {
-//     case "hetfő":
-//         console.log("Hétfőn kiverem Balázs fogát!");
-//         break;
-//     case "kedd":
-//         console.log("Kedden csak megverem Balázst.");
-//         break;
-//     case "szerda":
-//         console.log("Szerdán nem bántom Balázst.");
-//         break;
-//     case "csütörtök":
-//         console.log("Csütörtökön megölelem Balázst.");
-//         break;
-//     case "péntek":
-//         console.log("Pénteken megölöm Balázst.");
-//         break;
-//     case "szombat":
-//         console.log("Szombaton nem csinálok semmit.");
-//         break;
-//     case "vasárnap":
-//         console.log("Vasárnap pihenek.");
-//         break;
-//     default: 
-//     console.log("Balázs aludhat.");
+// function logger() {
+//     console.log("A nevem Levente! ")
 // }
 
-// const age = 23;
+// logger();
+// logger();
+// logger();
 
-// age >= 18 ? console.log("Szeretek gyrost enni.") : console.log("Szeretek szendvicset enni ó.")
+// function fruitProcessor(apples,oranges) {
+//     // console.log(apples, oranges)
+//     const juice = `Gyümölcslé ${apples} db almából ${oranges} db narancsból.`;
+//     return juice;
+// }
 
-// const drink = age >= 18 ? "Gyros" : "Szendvics";
+// fruitProcessor(5,0);
+// const appleJuice = fruitProcessor(5,0);
+// console.log(appleJuice);
 
-// console.log(drink)
+// const appleOrangeJuice = fruitProcessor(2,4);
+// console.log(appleOrangeJuice)
 
->>>>>>> b2b601d4928a525f3a1d9dc501892a0fa2c67351
+function calAge1(birthYear) {
+   return 2026 - birthYear;
+} 
+
+const age1 = calAge1(1999);
+console.log(age1);
