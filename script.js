@@ -1,3 +1,5 @@
+"use strict"
+
 console.log("Sikeres összekötés ✅");
 // let kereszt_nev = "Talabér";
 // console.log (kereszt_nev);
@@ -146,3 +148,27 @@ console.log("Sikeres összekötés ✅");
 // } else {
 //     console.log("Nem neked kellene vezetned!");
 // }
+
+
+// let hasdriverslicense = false;
+// const passTest = true;
+
+// if (passTest) {
+//     hasdriverslicense = true;
+// }
+
+// if (hasdriverslicense) {
+//     console.log("Vezethetek");
+// }
+
+// const interface = "hangkártya";
+
+// const private = 23;
+
+function logger() {
+    console.log("A nevem Levente! ")
+}
+
+logger();
+logger();
+logger();
