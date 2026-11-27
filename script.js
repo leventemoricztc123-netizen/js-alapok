@@ -384,6 +384,17 @@ const friends = ["Levente","Mate","Tanárúr"];
 // const popped = friends.pop();
 // console.log(popped);
 
-const shifted = friends.shift();
+// const shifted = friends.shift();
 
-console.log(shifted);
+// console.log(shifted);
+
+console.log(friends.indexOf("Tanárúr"));
+
+console.log(friends.indexOf("Dávid"));
+console.log(friends.includes("Balázs"));
+
+if (friends.includes("Levente")) {
+    console.log(`Leventw a barátok között van. ${friends.indexOf("Olivér")}`);
+} else {
+    console.log(`Levente nincs benne a barátok között.`);
+}
